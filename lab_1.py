@@ -1,4 +1,5 @@
-# CMPUT404 Lab1 Fall 2021
+# CMPUT404 Lab1
+# Fall 2021
 # Vicky Zhao
 
 import requests
